@@ -1,0 +1,243 @@
+* {
+    outline: 1px black dashed;
+    margin: 0;
+}
+
+/*.blockik {
+    width: 300px;
+    height: 300px; 
+    background-color: red;
+}*/
+.denchik {
+    max-width: 800px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+.den{
+width: 150px;
+height: 150px;
+background-color: blue;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction:column ;
+}
+
+/*.denchik2 {
+    max-width: 1200px;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}*/
+.denchik2{
+    width: 800px;
+    height: 700px;
+    background-color: red;
+display: flex;
+justify-content: space-around;
+align-items: center;
+align-content: center;
+flex-wrap: wrap;
+gap: 30px;
+}
+.littelden{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.bigden {
+    width: 600px;
+    height: 150px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 100px;
+}
+.denchik3 {
+    width: 800px;
+    height: 800px;
+    background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+align-content: center;
+gap: 50px;
+}
+.den3 {
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   align-items: center;
+   align-content: center;
+   justify-content: space-around;
+   gap:10px;
+}
+.bigden2 {
+    width: 800px;
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+.den4 {
+    width: 350px;
+    height: 550px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    gap: 30px;
+}
+.bigden3 {
+   width: 800px;
+   height: 300px;
+   background-color: black;
+   display: flex;
+   align-content: center;
+   align-items: center;
+   gap: 50px;
+   justify-content: space-around;
+
+}
+.den5 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.den6 {
+    width: 200px;
+    height: 250px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content:center ;
+    gap: 10px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.den7 {
+    width: 100px;
+    height: 50px;
+    background-color: red; 
+}
+.den8 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+.den9 { 
+   width: 150px;
+   height: 100px;
+   background-color: red;
+
+}
+
+.den10 {
+   width: 150px;
+   height: 50px;
+   background-color: red;
+}
+ .den11 {
+    width: 100px;
+    height: 100px;
+background-color: red;
+
+ }
+ .den12 {
+    width: 350px;
+    height: 100px;
+    background-color: red;
+ }
+.den13 { 
+   width: 130px;
+   height: 250px;
+   background-color: black;
+}
+.den14 {
+   width: 130px;
+   height: 100px;
+   background-color: black;
+}
+.den15 {
+    width: 200px;
+    height: 50px;
+    background-color: black;
+}
+.den16 {
+   width: 200px;
+   height: 200px;
+  background-color: black;
+}
+.den17 {
+   width: 200px;
+   height: 200px;
+   background-color: black;
+}
+.den18 {
+   width: 200px;
+   height: 300px;
+   background-color: black;
+}
+.den19 {
+  width: 150px;
+  height: 40px;
+  background-color: black;
+
+}
+
+.hhh {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.text1 {
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 200;
+
+}
+.text2 {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 100;
+
+}
+.text3 {
+    font-size: 19px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 80;
+    
+}
